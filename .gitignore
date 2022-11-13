@@ -2,3 +2,6 @@ sabdab-data/
 *.csv
 *.json
 *.txt
+.ipynb_checkpoints/
+.vscode/
+biofunctions/__pycache__/
