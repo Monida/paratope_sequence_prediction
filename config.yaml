@@ -1,0 +1,23 @@
+T5Config:
+  vocab_size: 40
+  d_ff: 2048
+  d_kv: 64
+  d_model: 512
+  decoder_start_token_id: 0
+  dense_act_fn: "relu"
+  dropout_rate: 0.1
+  eos_token_id: 2
+  pad_token_id: 1
+  bos_token_id: 0
+  feed_forward_proj: "relu"
+  initializer_factor: 1.0
+  is_encoder_decoder: True
+  is_gated_act: False
+  layer_norm_eps: 1e-06
+  model_type: "t5"
+  n_positions: 512
+  num_decoder_layers: 6
+  num_heads: 8
+  num_layers: 6
+  relative_attention_max_distance: 128
+  relative_attention_num_buckets: 32

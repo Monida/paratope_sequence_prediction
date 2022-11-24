@@ -1,0 +1,21 @@
+,amino acid,3 letter code,letter code
+0,alanine,ala,A
+1,arginine,arg,R
+2,asparagine,asn,N
+3,aspartic acid,asp,D
+4,cysteine,cys,C
+5,glutamine,gln,Q
+6,glutamic acid,glu,E
+7,glycine,gly,G
+8,histidine,his,H
+9,isoleucine,ile,I
+10,leucine,leu,L
+11,lysine,lys,K
+12,methionine,met,M
+13,phenylalanine,phe,F
+14,proline,pro,P
+15,serine,ser,S
+16,threonine,thr,T
+17,tryptophan,trp,W
+18,tyrosine,tyr,Y
+19,valine,val,V

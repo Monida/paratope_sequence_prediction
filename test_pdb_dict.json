@@ -1,0 +1,57 @@
+{
+    'pdbs': {
+        '1a2b':{
+            'labels':{
+                'A':{
+                    'ab_letters':[
+                        {
+                            'ab_letter':'Y',
+                            'ab_seqid':28,
+                            'ab_letter_seqid':'Y-28'
+                            'ag_contacts':[
+                                {
+                                    'ag_letter':'A',
+                                    'ag_seqid':45,
+                                    'ag_letter_seqid':'A-45'
+                                },
+                                {
+                                    'ag_letter':'I',
+                                    'ag_seqid':46
+                                    'ag_letter_seqid':'I-46'
+                                }
+                            ]
+                        },
+                        {
+                            'ab_letter':'I',
+                            'ab_seqid':29,
+                            'ab_letter_seqid':'I-29'
+                            'ag_contacts':[
+                                {
+                                    'ag_letter':'A',
+                                    'ag_seq_id':45,
+                                    'ag_letter_seqid':'A-45'
+
+                                },
+                                {
+                                    'ag_letter':'I',
+                                    'ag_seqid':46
+                                    'ag_letter_seqid':'I-46'
+                                }
+                            ]
+                        }
+                    ],
+                    'full_seqs': {
+                        1:{
+                            'ab':'IKMNTY',
+                            'ag':'AARTW',
+                            'o':'...||_..||._...|._||..._....|_.|.|.'
+                        }
+                    }
+                }
+            }
+        },
+        '1b3c':{'labels':{
+
+        }}
+    }
+}
